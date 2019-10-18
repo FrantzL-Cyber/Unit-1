@@ -53,9 +53,17 @@ Encrypt.py is the work I am most proud of because it was a collaborative effort
 The only piece I do not see as demonstrative of my abilities is the FLecesne_Turtle(1).py.
 The reason I would remove it from the collection is because I did not feel much inspiration 
 in terms of the final drawing so it was much more of a technical exercise along the way 
-than an attempt to create something that truly showcased the tool’s potential.
+than an attempt to create something that truly showcased the tool’s potential. 
 
-###
+### Looking Forward
+
+The projects so far have been great at building up different tools to accomplish specific tasks. 
+Although all the work reflects abilities that I now pocess the really interesting aspect is how 
+those tools can be used to resolve different problems. So on one hand it is very representative 
+of my abilities and on the other it does not show how I will be able to use those same tools in 
+the future. This is why I really hope to keep up and improve proper commenting and implementing 
+additional print functions within the code. These aspects really help me not only to not only 
+follow the code but determine other uses for certain functions.   
 
 
 To return to my profile page [Click Here](https://frantzl-cyber.github.io/FL_portfolio/).
