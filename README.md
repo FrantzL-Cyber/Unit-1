@@ -1,6 +1,6 @@
 # Unit-1
 
-The files are organized in the order in which they were completed.
+The files are organized alphabetically and include most of what was completed during the first half of the semester.
 The pieces I chose range from the simple, class exercises, individual projects, and collaborative efforts. 
 They help to show the growth in complexity over the length of the course and also include interacting with different capabilities of python.
 
