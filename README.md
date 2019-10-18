@@ -9,7 +9,11 @@ They help to show the growth in complexity over the length of the course and als
 
 ```markdown
 ### Encrypt
-Encrypt.py is the work I am most proud of because it was a collaborative effort with Joy, Nick, and Patrick for multiple sections but we solved part 7 and 8 independently, as it was extra credit. This involved us having to integrate ideas the others had developed during previous code and was fascinating to compare how we had each solved the issue.
+Encrypt.py is the work I am most proud of because it was a collaborative effort 
+ with Joy, Nick, and Patrick for multiple sections but we solved part 7 and 8 
+ independently, as it was extra credit. This involved us having to integrate 
+ ideas the others had developed during previous code and was fascinating to 
+ compare how we had each solved the issue.
 
 ``` python
  #Part 7 
@@ -43,7 +47,15 @@ Encrypt.py is the work I am most proud of because it was a collaborative effort 
   
  key = fkey 
  ``` 
+ 
+### Weaknesses
 
+The only piece I do not see as demonstrative of my abilities is the FLecesne_Turtle(1).py.
+The reason I would remove it from the collection is because I did not feel much inspiration 
+in terms of the final drawing so it was much more of a technical exercise along the way 
+than an attempt to create something that truly showcased the tool’s potential.
+
+###
 
 
 To return to my profile page [Click Here](https://frantzl-cyber.github.io/FL_portfolio/).
