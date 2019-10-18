@@ -1,9 +1,49 @@
 # Unit-1
+
 The files are organized in the order in which they were completed.
-[link](https://github.com/FrantzL-Cyber/Unit-1) - For the list of python files.
+The pieces I chose range from the simple, class exercises, individual projects, and collaborative efforts. 
+They help to show the growth in complexity over the length of the course and also include interacting with different capabilities of python.
 
-https://github.com/FrantzL-Cyber/Unit-1/blob/496357f61229f346341f4c91e1936d392f4e39c9/Encrypt.py#L117
+[Unit 1 files](https://github.com/FrantzL-Cyber/Unit-1) - For the list of python files.
+
+
+```markdown
+### Encrypt
+Encrypt.py is the work I am most proud of because it was a collaborative effort with Joy, Nick, and Patrick for multiple sections but we solved part 7 and 8 independently, as it was extra credit. This involved us having to integrate ideas the others had developed during previous code and was fascinating to compare how we had each solved the issue.
+
+``` python
+ #Part 7 
+ password = input('enter a password: ') 
+  
+ nkey = ''.join(sorted(set(password), key=password.index)) 
+ print(nkey) 
+  
+ alphabet =  'abcdefghijklmnopqrstuvwxyz' 
+  
+ #print(max(nkey)) 
+ #one, two = alphabet.split(max(nkey),1) 
+ one, two = alphabet.split(nkey[-1], 1) 
+  
+  
+ #print('first section ', one) 
+ #print('second section ', two) 
+  
+  
+ for char in nkey: 
+     one = one.replace(char,"") 
+  
+ for char in nkey: 
+     two = two.replace(char,"") 
+  
+ #print('new first ', one) 
+ #print('new first ', two) 
+  
+ fkey = nkey + two + one 
+ print(fkey) 
+  
+ key = fkey 
+ ``` 
 
 
 
-To return to my profile page [Link](https://frantzl-cyber.github.io/FL_portfolio/).
+To return to my profile page [Click Here](https://frantzl-cyber.github.io/FL_portfolio/).
